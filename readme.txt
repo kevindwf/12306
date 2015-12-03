@@ -1,7 +1,10 @@
 http://tool.chinaz.com/dns
-²é
+Â²Ã©
 kyfw.12306.cn
-µÄIP
+ÂµÃ„IP
+
+how to flush dns in chrome when change host:
+chrome://net-internals/#sockets
 
 
 $("#randCode").unbind("keyup")
